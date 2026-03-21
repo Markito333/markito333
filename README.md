@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="TU_IMAGEN_PIXELART.png" alt="MarkitoDev pixelart" />
+</p>
+
 # 👋 Hola, soy Marcos David Díaz Faulín
 
 💻 Desarrollador Web | 5 años de experiencia  
