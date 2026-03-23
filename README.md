@@ -10,17 +10,25 @@ Me apasiona crear aplicaciones web escalables con código limpio y mantenible, o
 ---
 
 ## 🚀 Tecnologías
-<p>
+
+### 🔹 Lenguajes & Frameworks
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,python,wordpress,ts" />
 </p>
-<p>
+
+### 🔹 Bases de Datos
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
-<p>
+
+### 🔹 Herramientas & Plataformas
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vite" />
-  <!-- Clip Studio Paint y XAMPP no tienen ícono oficial en skillicons -->
 </p>
-<p>
+<!-- Nota: Clip Studio Paint y XAMPP no tienen ícono en skillicons -->
+
+### 🔹 Interfaz
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs" />
 </p>
 
