@@ -1,11 +1,12 @@
-# 👋 Hola, soy Marcos David Díaz Faulín
+# 👋 Hola, soy **Marcos David Díaz Faulín**
 
-💻 Desarrollador Web | 5 años de experiencia  
+💻 **Desarrollador Web Full‑Stack** — 5 años de experiencia  
 🎓 Ingeniero Informático — Universidad Agraria de La Habana  
 🌍 Artemisa / La Habana, Cuba  
-📬 [Email](mailto:markitodiazfaulin@gmail.com) | [Portfolio](https://markito333.github.io/)  
+📬 [Email](mailto:markitodiazfaulin@gmail.com) · [Portfolio](https://markito333.github.io/)  
 
-Me apasiona crear aplicaciones web escalables con código limpio y mantenible, ofreciendo experiencias de usuario intuitivas.  
+Me apasiona crear aplicaciones web **escalables**, con **arquitecturas limpias** y experiencias de usuario fluidas.  
+Combino diseño, lógica y rendimiento para construir productos que aporten valor real.
 
 ---
 
@@ -14,25 +15,35 @@ Me apasiona crear aplicaciones web escalables con código limpio y mantenible, o
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,python,wordpress,ts,postgres,git,github,docker,postman,vite,html,css,react,tailwind,nextjs" />
 </p>
+
 ---
 
-## 📈 Estadísticas
+## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markito333&show_icons=true&theme=tokyonight&title_color=FFB6C1&icon_color=87CEFA&text_color=F0E68C&bg_color=282A36)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markito333&layout=compact&theme=tokyonight&title_color=98FB98&text_color=FFDAB9&bg_color=282A36)  
+### 🔥 Racha de contribuciones
+![Streak](https://streak-stats.demolab.com/?user=markito333&theme=tokyonight&hide_border=true&background=282A36)
+
+### 📈 Actividad general
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markito333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=282A36)
+
+### 🧠 Lenguajes más usados
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markito333&layout=compact&theme=tokyonight&hide_border=true&bg_color=282A36)
+
+### 🧩 Contribuciones del año (Commits + PRs + Issues)
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=markito333&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
 ## 🌟 Proyectos Destacados
 
-- 🐾 **CarIsa Clínica Veterinaria** → Sistema integral con IA.  
-- 🏥 **Mascolive** → Sitio web para clínica veterinaria.  
-- ⛵ **BookingFWI** → Plataforma de alquiler de botes y ropa.  
-- 🛒 **DM Shop Market** → Tienda online con catálogo y pedidos.  
-- 🎓 **Centro Educativo J.F. Costa** → Sistema académico con Spring Boot + PostgreSQL.  
-- 📚 **GETIC-UA (CUM Guanajay)** → Plataforma universitaria.  
-- 🏭 **AzuWers (Azumat)** → App corporativa de escritorio.  
-- 🤖 **Chatbot Inteligente** → Java + NLP.  
+- 🐾 **CarIsa Clínica Veterinaria** — Sistema integral con IA  
+- 🏥 **Mascolive** — Sitio web para clínica veterinaria  
+- ⛵ **BookingFWI** — Plataforma de alquiler de botes y ropa  
+- 🛒 **DM Shop Market** — Tienda online con catálogo y pedidos  
+- 🎓 **Centro Educativo J.F. Costa** — Sistema académico (Spring Boot + PostgreSQL)  
+- 📚 **GETIC-UA (CUM Guanajay)** — Plataforma universitaria  
+- 🏭 **AzuWers (Azumat)** — App corporativa de escritorio  
+- 🤖 **Chatbot Inteligente** — Java + NLP  
 
 ---
 
@@ -41,3 +52,4 @@ Me apasiona crear aplicaciones web escalables con código limpio y mantenible, o
 🎨 Ilustrador digital (Clip Studio Paint)  
 🤝 Comunicación efectiva & trabajo en equipo  
 📂 Organización y coordinación de proyectos  
+
