@@ -8,31 +8,16 @@
 Me apasiona crear aplicaciones web **escalables**, con **arquitecturas limpias** y experiencias de usuario fluidas.  
 Combino diseño, lógica y rendimiento para construir productos que aporten valor real.
 
----
-
 ## 🚀 Tecnologías
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,python,wordpress,ts,postgres,git,github,docker,postman,vite,html,css,react,tailwind,nextjs" />
 </p>
 
----
-
 ## 📊 Estadísticas de GitHub
 
 ### 🔥 Racha de contribuciones
 ![Streak](https://streak-stats.demolab.com/?user=markito333&theme=tokyonight&hide_border=true&background=282A36)
-
-### 📈 Actividad general
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markito333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=282A36)
-
-### 🧠 Lenguajes más usados
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markito333&layout=compact&theme=tokyonight&hide_border=true&bg_color=282A36)
-
-### 🧩 Contribuciones del año (Commits + PRs + Issues)
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=markito333&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
 
 ## 🌟 Proyectos Destacados
 
