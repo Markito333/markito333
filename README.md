@@ -21,7 +21,7 @@ Combino diseño, lógica y rendimiento para construir productos que aporten valo
 ## 📊 Estadísticas de GitHub
 
 ### 🔥 Racha de contribuciones
-![Streak](https://streak-stats.demolab.com/?user=markito333&theme=tokyonight&hide_border=true&background=282A36)
+![Streak](https://streak-stats.demolab.com?user=markito333&theme=tokyonight&hide_border=true)
 
 ### 📈 Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markito333&layout=compact&theme=tokyonight&hide_border=true)
@@ -49,5 +49,4 @@ Combino diseño, lógica y rendimiento para construir productos que aporten valo
 🎨 Ilustrador digital (Clip Studio Paint)  
 🤝 Comunicación efectiva & trabajo en equipo  
 📂 Organización y coordinación de proyectos  
-
 
