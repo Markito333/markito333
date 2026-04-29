@@ -18,7 +18,9 @@ Combino diseño, lógica y rendimiento para construir productos que aporten valo
 ---
 
 ## 🌟 Proyectos Destacados
-
+- 📖 **NeuronalBible** - Aplicación web para consulta biblica con referencias conectadas de forma neuronal
+- 🌱 **VerdePlants** - Aplicación web para gestionar jardines, plantas, y mucho más
+- 📕 **Blog Cristiano** - Aplicación web para gestion de blogs cristianos
 - 🐾 **CarIsa Clínica Veterinaria** — Sistema integral con IA  
 - 🏥 **Mascolive** — Sitio web para clínica veterinaria  
 - ⛵ **BookingFWI** — Plataforma de alquiler de botes y ropa  
