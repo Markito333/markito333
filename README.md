@@ -1,51 +1,95 @@
-# 👋 Hola, soy **Marcos David Díaz Faulín**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Marcos+Davíd+Díaz+Faulín;Full-Stack+Web+Developer" alt="Typing SVG" />
+</div>
 
-💻 **Desarrollador Web Full‑Stack** — 5 años de experiencia  
-🎓 Ingeniero Informático — Universidad Agraria de La Habana  
-🌍 Artemisa / La Habana, Cuba  
-📬 [Email](mailto:markitodiazfaulin@gmail.com) · [Portfolio](https://markito333.github.io/)  
+<br />
 
-Me apasiona crear aplicaciones web **escalables**, con **arquitecturas limpias** y experiencias de usuario fluidas.  
-Combino diseño, lógica y rendimiento para construir productos que aporten valor real.
+<div align="center">
+  <a href="mailto:markitodiazfaulin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://markito333.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## ✦ Sobre Mí
+
+Desarrollador Web Full‑Stack con **5 años de experiencia** creando soluciones digitales  
+que combinan **arquitecturas limpias**, **rendimiento** y **diseño centrado en el usuario**.
+
+🎓 Ingeniero Informático — *Universidad Agraria de La Habana*  
+📍 Artemisa / La Habana, Cuba
 
 ---
 
-## 🚀 Tecnologías
+## ✦ Stack Tecnológico
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,python,wordpress,ts,postgres,git,github,docker,postman,vite,html,css,react,tailwind,nextjs" />
-</p>
+<div align="center">
+  
+  **Lenguajes & Runtimes**
+  
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,nodejs" />
+  
+  **Frameworks & Librerías**
+  
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,tailwind,vite" />
+  
+  **Bases de Datos & Herramientas**
+  
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,postman,html,css,wordpress" />
+  
+</div>
+
 ---
 
-## 🌟 Proyectos Destacados
+## ✦ Proyectos
 
-- 🐾 **CarIsa Clínica Veterinaria** — Sistema integral con IA  
-- 🏥 **Mascolive** — Sitio web para clínica veterinaria  
-- ⛵ **BookingFWI** — Plataforma de alquiler de botes y ropa  
-- 🛒 **DM Shop Market** — Tienda online con catálogo y pedidos  
-- 🎓 **Centro Educativo J.F. Costa** — Sistema académico (Spring Boot + PostgreSQL)  
-- 📚 **GETIC-UA (CUM Guanajay)** — Plataforma universitaria  
-- 🏭 **AzuWers (Azumat)** — App corporativa de escritorio  
-- 🤖 **Chatbot Inteligente** — Java + NLP  
+<div align="center">
+
+| 🚀 Proyecto | 💡 Descripción |
+|------------|---------------|
+| **CarIsa** | Sistema integral de clínica veterinaria con IA |
+| **Mascolive** | Sitio web profesional para clínica veterinaria |
+| **BookingFWI** | Plataforma de alquiler de botes y ropa náutica |
+| **DM Shop Market** | Tienda online con catálogo interactivo |
+| **Centro J.F. Costa** | Sistema académico *(Spring Boot + PostgreSQL)* |
+| **GETIC-UA** | Plataforma universitaria para CUM Guanajay |
+| **AzuWers** | App corporativa de escritorio para Azumat |
+| **Chatbot IA** | Asistente inteligente *(Java + NLP)* |
+
+</div>
 
 ---
+
+## ✦ GitHub Insights
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markito333&show_icons=true&theme=tokyonight&hide_border=true&card_width=495&rank_icon=github)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markito333&layout=compact&theme=tokyonight&hide_border=true&card_width=495)
+  
+  ![Streak](https://streak-stats.demolab.com?user=markito333&theme=tokyonight&hide_border=true&card_width=495)
+
+</div>
+
 ---
 
-## 📊 Estadísticas de GitHub
+## ✦ Más Allá del Código
 
-### 🔥 Racha de contribuciones
-![Streak](https://streak-stats.demolab.com?user=markito333&theme=tokyonight&hide_border=true)
+<div align="center">
 
-### 📈 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markito333&layout=compact&theme=tokyonight&hide_border=true)
+🎨 **Ilustración Digital** — Clip Studio Paint  
+🤝 **Trabajo en Equipo** — Comunicación efectiva y liderazgo colaborativo  
+📂 **Gestión de Proyectos** — Organización, planificación y entrega
 
-### 📦 Total de commits y actividad
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markito333&show_icons=true&theme=tokyonight&hide_border=true)
+</div>
 
+---
 
-## 🎨 Extras
-
-🎨 Ilustrador digital (Clip Studio Paint)  
-🤝 Comunicación efectiva & trabajo en equipo  
-📂 Organización y coordinación de proyectos  
-
+<div align="center">
+  <i>Construyendo el futuro, una línea de código a la vez.</i>
+</div>
