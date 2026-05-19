@@ -63,7 +63,7 @@ Combino diseño, lógica y rendimiento para construir productos que aporten valo
 
 ## 🎨 Extras
 
-🧪 Metodologías y pruebas: REST APIs, JPA, Hibernate, Microservicios, JUnit, Git Flow, Scrum
+🧪 Metodologías y pruebas: REST APIs, JPA, Hibernate, Microservicios, JUnit, Git Flow, Scrum 
 🎨 Ilustrador digital & diseñador gráfico (Clip Studio Paint)  
 🤝 Fuerte comunicación, adaptabilidad, empatía & trabajo en equipo  
 📂 Organización en equipo & coordinación de proyectos  
