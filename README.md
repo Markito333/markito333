@@ -1,4 +1,4 @@
-# 🌱 Hola, soy **Marcos David Díaz Faulín**
+# 🍂 Hola, soy **Marcos David Díaz Faulín**
 {Markito}
 
 💻 **Ingeniero de Software** — 6 años de experiencia  
@@ -8,7 +8,7 @@
 Me apasiona crear aplicaciones web **escalables**, con **arquitecturas limpias** y experiencias de usuario fluidas.  
 Combino diseño, lógica y rendimiento para construir productos que aporten valor real.
 
-## 📝 Tecnologías
+## 🍄 Tecnologías
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -46,17 +46,10 @@ Combino diseño, lógica y rendimiento para construir productos que aporten valo
 - 🎓 **Centro Educativo J.F. Costa** — Sistema académico
 ---
 
-## 📊 Estadísticas de GitHub
-
-### 🔥 Racha de contribuciones
-![Streak](https://streak-stats.demolab.com?user=markito333&theme=tokyonight&hide_border=true)
+## 🌱 Estadísticas de GitHub
 
 ### 📈 Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markito333&layout=compact&theme=tokyonight&hide_border=true)
-
-### 📦 Total de commits y actividad
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markito333&show_icons=true&theme=tokyonight&hide_border=true)
-
 
 ## 🎨 Extras
 
