@@ -34,6 +34,8 @@ Combino diseño, lógica y rendimiento para construir productos que aporten valo
 
 
 ## 📂 Proyectos Destacados
+- 💼 **ProjectFolder** — Sitio web para consultar y visualizar todos los detalles de proyectos en los que he trabajado
+- 🖨 **Sistema de ventas y facturación** — Sistema de ventas con facturación, y gestión de clientes, junto a integración con AFIP/ARCA
 - 📖 **NeuronalBible** - Aplicación web para consulta biblica con referencias conectadas de forma neuronal
 - 🌱 **VerdePlants** - Aplicación web para gestionar jardines, plantas, y mucho más
 - 📕 **Blog Cristiano** - Aplicación web para gestion de blogs cristianos
@@ -41,12 +43,7 @@ Combino diseño, lógica y rendimiento para construir productos que aporten valo
 - 🏥 **Mascolive** — Sitio web para clínica veterinaria  
 - ⛵ **BookingFWI** — Plataforma de alquiler de botes y ropa  
 - 🛒 **DM Shop Market** — Tienda online con catálogo y pedidos  
-- 🎓 **Centro Educativo J.F. Costa** — Sistema académico (Spring Boot + PostgreSQL)  
-- 📚 **GETIC-UA (CUM Guanajay)** — Plataforma universitaria  
-- 🏭 **AzuWers (Azumat)** — App corporativa de escritorio  
-- 🤖 **Chatbot Inteligente** — Java + NLP  
-
----
+- 🎓 **Centro Educativo J.F. Costa** — Sistema académico
 ---
 
 ## 📊 Estadísticas de GitHub
