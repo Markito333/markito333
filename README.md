@@ -1,4 +1,4 @@
-# 👋 Hola, soy **Marcos David Díaz Faulín**
+# 🌱 Hola, soy **Marcos David Díaz Faulín**
 
 💻 **Ingeniero de Software** — 5 años de experiencia  
 🌍 Artemisa / La Habana, Cuba  
@@ -7,7 +7,7 @@
 Me apasiona crear aplicaciones web **escalables**, con **arquitecturas limpias** y experiencias de usuario fluidas.  
 Combino diseño, lógica y rendimiento para construir productos que aporten valor real.
 
-## 🚀 Tecnologías
+## 📝 Tecnologías
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
