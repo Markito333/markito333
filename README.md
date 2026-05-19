@@ -1,7 +1,6 @@
 # 👋 Hola, soy **Marcos David Díaz Faulín**
 
 💻 **Ingeniero de Software** — 5 años de experiencia  
-🎓 Ingeniero Informático — Universidad Agraria de La Habana  
 🌍 Artemisa / La Habana, Cuba  
 📬 [Email](mailto:markitodiazfaulin@gmail.com) · [Portfolio](https://markito333.github.io/)  
 
