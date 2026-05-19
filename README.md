@@ -33,7 +33,7 @@ Combino diseño, lógica y rendimiento para construir productos que aporten valo
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 
-## 🌟 Proyectos Destacados
+## 📂 Proyectos Destacados
 - 📖 **NeuronalBible** - Aplicación web para consulta biblica con referencias conectadas de forma neuronal
 - 🌱 **VerdePlants** - Aplicación web para gestionar jardines, plantas, y mucho más
 - 📕 **Blog Cristiano** - Aplicación web para gestion de blogs cristianos
@@ -63,6 +63,9 @@ Combino diseño, lógica y rendimiento para construir productos que aporten valo
 
 ## 🎨 Extras
 
-🎨 Ilustrador digital (Clip Studio Paint)  
-🤝 Comunicación efectiva & trabajo en equipo  
-📂 Organización y coordinación de proyectos  
+🧪 Metodologías y pruebas: REST APIs, JPA, Hibernate, Microservicios, JUnit, Git Flow, Scrum
+🎨 Ilustrador digital & diseñador gráfico (Clip Studio Paint)  
+🤝 Fuerte comunicación, adaptabilidad, empatía & trabajo en equipo  
+📂 Organización en equipo & coordinación de proyectos  
+
+ 
