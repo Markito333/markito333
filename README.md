@@ -1,7 +1,7 @@
 # 🌱 Hola, soy **Marcos David Díaz Faulín**
 {Markito}
 
-💻 **Ingeniero de Software** — 5 años de experiencia  
+💻 **Ingeniero de Software** — 6 años de experiencia  
 🌍 Artemisa / La Habana, Cuba  
 📬 [Email](mailto:markitodiazfaulin@gmail.com) · [Portfolio](https://markito333.github.io/)  
 
