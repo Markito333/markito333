@@ -34,6 +34,8 @@ Combino diseño, lógica y rendimiento para construir productos que aporten valo
 
 
 ## 📂 Proyectos Destacados
+- 🏠 **Megaurbix** — Plataforma web para la renta/compra de propiedades inmobiliarias en la ciudad de México
+- 🎧 **CoffSound** — Plataforma web para la reproduccion de música
 - 💼 **ProjectFolder** — Sitio web para consultar y visualizar todos los detalles de proyectos en los que he trabajado
 - 🖨 **Sistema de ventas y facturación** — Sistema de ventas con facturación, y gestión de clientes, junto a integración con AFIP/ARCA
 - 📖 **NeuronalBible** - Aplicación web para consulta biblica con referencias conectadas de forma neuronal
