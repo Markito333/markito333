@@ -34,6 +34,7 @@ Combino diseño, lógica y rendimiento para construir productos que aporten valo
 
 
 ## 📂 Proyectos Destacados
+- 🚚 **SECCO-DISTRIBUIDORA-EGUEZ** - Desarrollador del sistema de gestión de pedidos para distribuidora Secco
 - 🏠 **Megaurbix** — Plataforma web para la renta/compra de propiedades inmobiliarias en la ciudad de México
 - 🎧 **CoffSound** — Plataforma web para la reproduccion de música
 - 💼 **ProjectFolder** — Sitio web para consultar y visualizar todos los detalles de proyectos en los que he trabajado
